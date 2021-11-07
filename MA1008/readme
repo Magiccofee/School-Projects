@@ -1,0 +1,5 @@
+Mini Project to write a program for designing disc cams.
+Generates displacement graph and generates the cam profile.
+Reads inputs from users, can read from files also.
+Limited to base python modules, numpy, matplotlib and tkinter could not be used.
+No class construct allowed
