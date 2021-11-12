@@ -1,0 +1,6 @@
+Last edited on: 01/11/2021 17:25:32
+Total Number of Segment: 3 Radius of Base Circle: 150 Radius of Follower: 50
+  Segment No    Motion Type    Angular Range    Curve Shape    Displacement(mm)  
+      1              2              120              3               100         
+      2              1              120              -               0         
+      3              3              120              3               100         
